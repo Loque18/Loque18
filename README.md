@@ -1,4 +1,35 @@
-Greetings, I'm Sebastian 😊
+```bash
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   ██╗      ██████╗  ██████╗ ██╗   ██╗███████╗ ██╗ █████═╗   │
+│   ██║     ██╔═══██╗██╔═══██╗██║   ██║██╔════╝███║██═══██╗   │
+│   ██║     ██║   ██║██║   ██║██║   ██║█████╗  ╚██║╚█████═╝   │
+│   ██║     ██║   ██║██║▄▄ ██║██║   ██║██╔══╝   ██║██═══██║   │
+│   ███████╗╚██████╔╝╚██████╔╝╚██████╔╝███████╗ ██║ █████╔╝   │
+│   ╚══════╝ ╚═════╝  ╚══▀▀═╝  ╚═════╝ ╚══════╝ ╚═╝ ╚════╝    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
-I build AI systems, my focus is on making machine learning actually useful: from data to deployment, from experiments to real products.
-Currently working on projects around RAG systems, AI tools, and interactive ML learning platforms.
+> AI Engineer / Full Stack Developer
+
+$ whoami
+
+Started my career as a game developer back in 2020.
+Later I transitioned into web development,
+then I became deeply interested in Artificial Intelligence.
+
+One of the best decisions I made was pursuing a Masters
+degree in Artificial Intelligence.
+
+Currently building D3V3 Platform.
+
+
+$ current_focus
+
+> AI Agents
+> LLM Systems
+> RAG Pipelines
+> Full Stack Development
+> D3V3
+
+```

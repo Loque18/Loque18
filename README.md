@@ -32,4 +32,9 @@ $ current_focus
 > Full Stack Development
 > D3V3
 
+$ links
+
+portfolio: https://loque18.com
+d3v3: https://d3v3.io
+
 ```
